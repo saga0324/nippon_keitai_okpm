@@ -1,5 +1,6 @@
-# One Key Package Manager for Windows Command Shell
-## for Nippon Keitai
+# Nippon Keitai Rubbish Software List  
+
+You can use it in Package Manager in Android Debug Bridage 's Shell  
 
 Now supported Model:  
 
