@@ -6,6 +6,7 @@
         <Platform>msm8940</Platform>
         <Architecture>arm64</Architecture>
         <Model>MO-01K</Model>
+        <DevModel>P840D01</DevModel>
         <AndroidVersion>8.0.0</AndroidVersion>
         <SWVersion>DCM_JP_MO-01K_OV1.0.0B23</SWVersion>
         <ListVer>1.2</ListVer>
