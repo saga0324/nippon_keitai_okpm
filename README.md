@@ -9,4 +9,5 @@ Now supported Model:
 | Carrier        | Manufacturer   |  Model  | Android Version | Software Version |
 | :--------:   | :-----:  | :----:  | :----: | :-----:|
 | docomo     | ZTE | MO-01K | 8.0.0 | DCM_JP_MO-01K_OV1.0.0B23 |  
-| SoftBank   |SHARP|503SH |5.1.1 |S0014 |
+| SoftBank   |SHARP|503SH |5.1.1 |S0014 |  
+| docomo   |Fujitsu|F-02G |5.0.2 |V11R29B |
