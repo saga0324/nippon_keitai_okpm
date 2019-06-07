@@ -9,8 +9,8 @@
         <DevModel>P840D01</DevModel>
         <AndroidVersion>8.0.0</AndroidVersion>
         <SWVersion>DCM_JP_MO-01K_OV1.0.0B23</SWVersion>
-        <ListVer>1.2</ListVer>
         <FactoryResetRecommend>true</FactoryResetRecommend>
+        <ListVer>1.3</ListVer>
     </DeviceInfo>
     <Uninstall>
         <PackageName>com.nttdocomo.android.cloudstorageservice</PackageName>
