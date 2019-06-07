@@ -1,7 +1,9 @@
 # Nippon Keitai Rubbish Software List  
 
-You can use it in Package Manager in Android Debug Bridage 's Shell  
-
+I just do a little work.  
+It's can improve life quality when you use phone from japan.  
+あなたがキャリアから電話を使うとき、それは生活の質を改善することができます。  
+  
 Now supported Model:  
 
 | Carrier        | Brand   |  Model  | AndroidVer | SWVer |
