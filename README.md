@@ -12,3 +12,4 @@ Now supported Model:
 | SoftBank   |SHARP|503SH |5.1.1 |S0014 |  
 | docomo   |Fujitsu|F-02G |5.0.2 |V11R29B |
 | docomo   |SHARP|SH-02J |8.0.0 |03.00.06 |
+| docomo   |Fujitsu|F-01F |4.4.2 |V10R22A |
