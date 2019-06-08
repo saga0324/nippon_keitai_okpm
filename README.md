@@ -13,3 +13,4 @@ Now supported Model:
 | docomo   |Fujitsu|F-02G |5.0.2 |V11R29B |
 | docomo   |SHARP|SH-02J |8.0.0 |03.00.06 |
 | docomo   |Fujitsu|F-01F |4.4.2 |V10R22A |
+| au   |SHARP|SHV34 |8.0.0 |03.02.05 |
