@@ -2,7 +2,7 @@
 
 I just do a little work.  
 It's can improve life quality when you use phone from japan.  
-あなたがキャリアから攜帶電話を使うとき、それは生活の質を改善することができます。  
+あなたがキャリアから携帯電話を使うとき、それは生活の質を改善することができます。  
   
 Now supported Model:  
 
